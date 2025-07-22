@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Olá,+sou+Victor+H.!&animation=fadeIn&font=Roboto&color=gradient" alt="banner" />
+  <img src="Banner GitHub.png" alt="banner" />
 </p>
 
 # 👋 Olá! Eu sou o Victor
